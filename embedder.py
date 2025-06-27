@@ -1,5 +1,4 @@
 from sentence_transformers import SentenceTransformer
-from tqdm import tqdm
 import os
 import json
 import numpy as np
