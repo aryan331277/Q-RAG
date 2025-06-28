@@ -10,9 +10,9 @@ This isn't a generic RAG. It’s designed for:
 
 ---
 
-##What It Does
+## 🔧 What It Does
 
-###Key Features:
+### ✅ Key Features:
 - **Math-Aware Chunking**  
   Handles overlapping tokens while preserving LaTeX/math symbols to maintain semantic and mathematical integrity.
 
@@ -35,3 +35,9 @@ This isn't a generic RAG. It’s designed for:
 
 ## 📦 Libraries Used
 
+sentence-transformers
+transformers
+rank_bm25
+numpy
+pymupdf
+nltk
